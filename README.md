@@ -69,26 +69,3 @@ Este script utiliza la librería open source yt-dlp.
 YouTube™ es una marca registrada de Google LLC.
 Solo debe usarse para descargar contenido de tu propiedad o con licencia libre.
 
-
----
-
-## 💾 2️⃣ Guarda los cambios
-En Nano:
-
-Ctrl + O → Enter
-Ctrl + X
-
-
----
-
-## 🚀 3️⃣ Sube la versión corregida a GitHub
-
-```bash
-git add README.md
-git commit -m "Actualizado README completo"
-git push
-
-Luego recarga tu repositorio en el navegador:
-👉 https://github.com/rafaelmperez/youtube_batch_downloader
-
-Y verás tu README completo con formato, emojis y secciones ✅
