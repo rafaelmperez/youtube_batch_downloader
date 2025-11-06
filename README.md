@@ -1,4 +1,4 @@
-# 🎥 YouTube Batch Downloader
+🎥 YouTube Batch Downloader
 
 Script en **Python 3** que permite descargar varios vídeos de **YouTube** de forma interactiva, en la **mejor calidad disponible (video + audio)**, guardándolos automáticamente en una carpeta llamada `descargas_youtube`.
 
@@ -27,6 +27,9 @@ pip install -r requirements.txt
 sudo apt install ffmpeg
 
 ▶️ Uso
+Copia y pega el contenido del script:
+
+nano youtube_batch_downloader.py
 
 Ejecuta el script desde la terminal:
 
