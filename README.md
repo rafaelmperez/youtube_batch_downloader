@@ -1,4 +1,4 @@
-🎥 YouTube Batch Downloader
+## 🎥 YouTube Batch Downloader
 
 Descarga múltiples vídeos de **YouTube** en la **mejor calidad disponible (video + audio)** de forma interactiva, con un script simple en **Python 3**.  
 Ideal para automatizar descargas en lote desde la terminal — rápido, limpio y multiplataforma.  
